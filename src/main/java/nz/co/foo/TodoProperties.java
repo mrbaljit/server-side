@@ -1,4 +1,4 @@
-package nz.com.foo;
+package nz.co.foo;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

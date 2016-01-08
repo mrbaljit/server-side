@@ -13,6 +13,21 @@
 spring:
   profiles: dev
 
+  datasource:
+    url: jdbc:postgresql://localhost:5432/person
+    username: postgres
+    password: admin
+    platform: postgress
+
+  database:
+    driveClassName: org.postgresql.Driver
+
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
 todo:
   ureHost: localhost
   urePost: 27017

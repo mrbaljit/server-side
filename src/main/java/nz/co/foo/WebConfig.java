@@ -1,4 +1,4 @@
-package nz.com.foo;
+package nz.co.foo;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

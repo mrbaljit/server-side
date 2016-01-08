@@ -1,4 +1,4 @@
-package nz.com.foo;
+package nz.co.foo;
 
 
 /**
